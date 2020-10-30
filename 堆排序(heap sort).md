@@ -27,14 +27,6 @@
 
 ### 完全二叉树(complete binary tree)
 
-![image-20201030000707372](https://raw.githubusercontent.com/liuqin19980818/yizhixiaokonglongde_image_host/master/20201030182608.png)
-
-
-
-
-
-
-![image-20201030183824054](https://raw.githubusercontent.com/liuqin19980818/yizhixiaokonglongde_image_host/master/20201030183839.png)
 
 
 
